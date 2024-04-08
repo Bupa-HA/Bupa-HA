@@ -9,22 +9,22 @@ OOOO (Asia) XXXX
 - 🌱 I’m currently working in TTTTT. 
 ----------------------------------------------------------------
 
-**My Working Experience:** 
-XXXX work 1 XXXXXX
+**My Working Experience:** 😎
+- XXXX work 1 XXXXXX
   - aaaa
   - bbbb
 
-XXXXX work 2 XXXX
+- XXXXX work 2 XXXX
 
 -------------------------------------------------------------
 **My Professional:**
-Area 1
-Area 2 
+- Area 1
+- Area 2 
 
 -------------------------------------------------------------
 **My Certifications:**
-Cert 1 - 
-Cert 2 -
+- Cert 1  
+- Cert 2 
 
 
 
